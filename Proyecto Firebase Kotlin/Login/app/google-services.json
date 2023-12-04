@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51452403615",
+    "project_id": "loginforo2dsm",
+    "storage_bucket": "loginforo2dsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51452403615:android:bb1be0fdaade4dbb5127aa",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALm1l9d7c_4w9i9ioX_0xgcJv4qT13_lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
